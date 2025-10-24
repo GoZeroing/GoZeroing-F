@@ -166,9 +166,6 @@ vercel --prod
 4. Add tests if necessary
 5. Submit a pull request
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details
 
 ## Support
 
